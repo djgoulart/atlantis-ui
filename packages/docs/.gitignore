@@ -1,0 +1,4 @@
+storybook-static
+node_modules
+.turbo
+turbo-build.log

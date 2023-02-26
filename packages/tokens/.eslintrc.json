@@ -1,0 +1,3 @@
+{
+  "extends": "@atlantis-ui/eslint-config"
+}
