@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Box, BoxProps } from '@atlantis-ui/react'
+import { Box, BoxProps, Text } from '@atlantis-ui/react'
 
 export default {
   title: 'Layout/Box',
@@ -8,7 +8,7 @@ export default {
   args: {
     children: (
       <>
-        <span>Im inside a box!</span>
+        <Text>Im inside a box!</Text>
       </>
     ),
   },
