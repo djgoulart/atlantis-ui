@@ -1,0 +1,2 @@
+import{j as r,F as o}from"./jsx-runtime-165b5077.js";import{B as t,T as i}from"./index-3f867b6e.js";import"./index-8c6c7849.js";import"./iframe-2964a50f.js";import"./index-df7834b8.js";const p={title:"Layout/Box",component:t,args:{children:r(o,{children:r(i,{children:"Im inside a box!"})})}},x={},c=["Primary"];export{x as Primary,c as __namedExportsOrder,p as default};
+//# sourceMappingURL=Box.stories-30712a65.js.map

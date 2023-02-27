@@ -1,0 +1,2 @@
+import{H as t}from"./index-3f867b6e.js";import"./index-8c6c7849.js";import"./iframe-2964a50f.js";import"./index-df7834b8.js";import"./jsx-runtime-165b5077.js";const a={title:"Typography/Heading",component:t,args:{size:"md",children:"Lorem ipsum dolor sit amet consectetur adipisicing elit."}},m={},n={args:{as:"h1",size:"lg"}},p=["Primary","CustomTag"];export{n as CustomTag,m as Primary,p as __namedExportsOrder,a as default};
+//# sourceMappingURL=Heading.stories-3404599f.js.map

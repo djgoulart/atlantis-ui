@@ -1,0 +1,2 @@
+import{A as t}from"./index-3f867b6e.js";import"./index-8c6c7849.js";import"./iframe-2964a50f.js";import"./index-df7834b8.js";import"./jsx-runtime-165b5077.js";const l={title:"Data display/Avatar",component:t,args:{src:"https://github.com/djgoulart.png",alt:"Diego Goulart"}},m={},p={args:{src:void 0,alt:"Diego Goulart"}},c=["Primary","Fallback"];export{p as Fallback,m as Primary,c as __namedExportsOrder,l as default};
+//# sourceMappingURL=Avatar.stories-d6b32295.js.map
