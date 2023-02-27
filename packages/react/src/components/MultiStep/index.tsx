@@ -23,3 +23,4 @@ export const MultiStep = ({ size, currentStep = 1 }: Props) => {
 }
 
 export type MultiStepProps = ComponentProps<typeof MultiStep>
+MultiStep.displayName = 'MultiStep'
